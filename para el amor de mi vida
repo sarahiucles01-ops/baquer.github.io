@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi página — Editar Aquí</title>
+  <!-- Si querés agregar CSS externo, pon algo así:
+  <link rel="stylesheet" href="styles.css">
+  -->
+</head>
+<body>
+
+  <header>
+    <h1>Bienvenido a mi página</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre mí / Contenido</h2>
+      <p>Acá podés poner el texto que querés mostrar. Cambialo sin miedo.</p>
+    </section>
+
+    <section>
+      <h2>Otros contenidos</h2>
+      <p>Otro párrafo, links, imágenes… lo que necesites.</p>
+      <!-- Ejemplo de link:
+      <a href="https://www.ejemplo.com" target="_blank">Visitar ejemplo</a>
+      -->
+      <!-- Ejemplo de imagen:
+      <img src="ruta-de-imagen.jpg" alt="Descripción" width="300">
+      -->
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 — Tu nombre o alias</p>
+  </footer>
+
+</body>
+</html>
